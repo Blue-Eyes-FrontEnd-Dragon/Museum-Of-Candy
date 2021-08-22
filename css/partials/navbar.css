@@ -1,0 +1,16 @@
+#mainNavbar {
+    font-size: var(--navbar-brand-font-size);
+    font-weight: var(--navbar-brand-font-weight);
+}
+
+#mainNavbar .nav-link {
+    color: var(--navbar-link-color);
+}
+
+#mainNavbar .nav-link:hover {
+    color: var(--navbar-link-color-hover);
+}
+
+#mainNavbar .navbar-brand {
+    color: var(--navbar-brand-color);
+}
