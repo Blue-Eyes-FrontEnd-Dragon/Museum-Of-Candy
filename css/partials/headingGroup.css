@@ -1,0 +1,14 @@
+#headingGroup span {
+    color: var(--heading-group-span);
+}
+
+#headingGroup h1 {
+    font-size: var(--heading-group-font-size);
+    font-weight: var(--heading-group-font-weight);
+}
+
+@media (max-width: 1200px) {
+    #headingGroup h1 {
+        font-size: calc(var(--heading-group-font-size) - 1rem);
+    }
+}
