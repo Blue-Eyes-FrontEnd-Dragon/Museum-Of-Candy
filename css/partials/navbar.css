@@ -14,3 +14,7 @@
 #mainNavbar .navbar-brand {
     color: var(--navbar-brand-color);
 }
+
+.navbar.scrolled {
+    background-color: #DEC0DE;
+}

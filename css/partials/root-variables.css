@@ -1,6 +1,8 @@
 :root {
     --font-size: 62.5%;
+    --font-weight: 100;
     --main-background-color: #f5d9d5;
+    --main-text-color: #ea1c2c;
     --main-font: 'Nunito', sans-serif;
 
     --navbar-brand-color: #ea1c2c;
@@ -8,4 +10,11 @@
     --navbar-brand-font-weight: 100;
     --navbar-link-color: white;
     --navbar-link-color-hover: #ea1c2c;
+
+    --heading-group-span: #ea1c2c;
+    --heading-group-font-weight: 100;
+    --heading-group-font-size: 3rem;
+
+    --gallery-h2-font-size: 2.5rem;
+    --blurb-text-color: #f498b8;
 }
